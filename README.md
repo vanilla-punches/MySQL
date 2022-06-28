@@ -1,1 +1,2 @@
-# mysql
+# MySQL
+### Intro MySQL
